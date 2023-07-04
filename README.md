@@ -4,6 +4,11 @@ DomIPSeeker is a security reconnaissance tool that leverage CriminalIP API to lo
 
 ## Installation And Setup
 
+1. Clone the project:
+```
+git clone https://github.com/mt7315/DomIPSeeker
+```
+   
 2. Prepare and activate the virtual environment :
 ```
 $ python3 -m venv myenv
@@ -25,7 +30,7 @@ api_key = "******YOUR_API_KEY_HERE*******"
 ```
 
 
-     coded by : KamilDogo
+     coded by : mt7513
      Powered By CriminalIP
      https://www.criminalip.io/
 
@@ -51,7 +56,7 @@ optional arguments:
 python3 domipseeker.py -o "Oath Holdings Inc" -d
 
 
-     coded by : KamilDogo
+     coded by : mt7315
      Powered By CriminalIP
      https://www.criminalip.io/
 
