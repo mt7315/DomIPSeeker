@@ -4,12 +4,16 @@ DomIPSeeker is a security reconnaissance tool that leverage CriminalIP API to lo
 
 ## Installation And Setup
 
+1. Clone the project:
+```
+git clone https://github.com/mt7315/DomIPSeeker.git
+```
+
 2. Prepare and activate the virtual environment :
 ```
 $ python3 -m venv myenv
 $ source myenv/bin/activate
 ```
-
 
 3. Install requirements :
 ```
